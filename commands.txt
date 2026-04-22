@@ -1,0 +1,5 @@
+Commands I used:
+- Git status 
+- Git add "file name"
+- Git commit -m "commit message"
+- Git push origin "branch name"
